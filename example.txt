@@ -1,0 +1,2 @@
+Hello, this is an example file.
+We are writing to it using Python file handling operations.
